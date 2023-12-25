@@ -39,7 +39,7 @@ function App() {
   return (
     <Router>
     <>
-    <NavBar title="ResponsiveUtility" about ="About" TableChart='TableChart' mode={mode} togglemode={togglemode}/>
+    <NavBar title="ResponsiveUtility" about ="Visualization" TableChart='TableChart' mode={mode} togglemode={togglemode}/>
    <IconAlert alert={alert}/>
      
       
